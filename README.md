@@ -85,7 +85,7 @@ I am committed to continued growth and development in these areas and am always 
 <p align="center">
   https://gpacalculator.streamlit.app/
 </p>
-<p align="center".
+<p align="center">
   https://github.com/InvisibleTiger/NeuralVision
 </p>
 
