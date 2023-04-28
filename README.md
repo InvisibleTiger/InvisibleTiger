@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-**InvisibleTiger/InvisibleTiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<p align="center">
+I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025.
+</p>
 
 - ⚒️ I’m well versed with ...
 <p align="center">
