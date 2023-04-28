@@ -59,9 +59,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 - 📫 How to reach me: ...
