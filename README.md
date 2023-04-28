@@ -24,6 +24,7 @@ I am committed to continued growth and development in these areas and am always 
   <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 - 🌱 I’m currently learning ...
