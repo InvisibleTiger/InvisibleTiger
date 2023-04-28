@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025.
+  I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025. I like working with Math, Science and Technology. I'd love to see Robots take over the world; just kidding, My robot friends would never do that. I have worked on creating Robots that use Arduino, Raspberry Pi, ROS, and etc. One of the important things I have done in life is that I made the decision to pursue a robotics based career which improves the research and development in the field of robotics. The major that interests me is Mechatronics is because it has a foundation for the concepts from Math and Science of which both are my favorite subjects. I'm part of the robotics team from Allen High School, we compete in the FIRST Robotics Competetion as Team 5417, Eagle Robotics and I have been with the team for the past two seasons.
 </p>
 
 - ⚒️ I’m well versed with ...
@@ -72,7 +72,7 @@ I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025.
 
 - ⚡ Fun fact: ...
 <p align="center">
-  🤖 Robots are our friends and they equally have the right to takeover the world as humans did.
+  🤖 Robots are our friends and they equally have the right to take over the world as humans did.
 </p>
 
 - 🕸️ My Projects ...
