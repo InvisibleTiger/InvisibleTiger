@@ -70,6 +70,8 @@ I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025.
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
-- 🔭 I’m currently working on ...
 - 💬 Ask me about ...
+-- ✖️➕➖➗🟰 Math
+-- 🧪🔬🔭 Science
+-- 💻🖥️ Computers
 - ⚡ Fun fact: ...
