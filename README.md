@@ -77,5 +77,5 @@
 
 - 🕸️ My Projects ...
 <p align="center">
-  https://ahsgpacalculator.streamlit.app/
+  https://gpacalculator.streamlit.app/
 </p>
