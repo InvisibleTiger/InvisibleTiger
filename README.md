@@ -48,6 +48,7 @@ I am committed to continued growth and development in these areas and am always 
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 - 🎮 I play ...
