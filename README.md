@@ -71,7 +71,10 @@ I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025.
 </p>
 
 - 💬 Ask me about ...
--- ✖️➕➖➗🟰 Math
--- 🧪🔬🔭 Science
--- 💻🖥️ Computers
+<p align="center">
+  - ✖️➕➖➗🟰 Math
+  - 🧪🔬🔭 Science
+  - 💻🖥️ Computers
+</p>
+
 - ⚡ Fun fact: ...
