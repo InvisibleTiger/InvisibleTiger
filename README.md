@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 <p align="center">
-  I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025. I like working with Math, Science and Technology. I'd love to see Robots take over the world; just kidding, My robot friends would never do that. I have worked on creating Robots that use Arduino, Raspberry Pi, ROS, and etc. One of the important things I have done in life is that I made the decision to pursue a robotics based career which improves the research and development in the field of robotics. The major that interests me is Mechatronics is because it has a foundation for the concepts from Math and Science of which both are my favorite subjects. I'm part of the robotics team from Allen High School, we compete in the FIRST Robotics Competetion as Team 5417, Eagle Robotics and I have been with the team for the past two seasons.
+I am Jeevan Adhya, a passionate and driven individual with a love for robotics, programming, computer science, math, science, and technology. As a member of the FRC team 5417, Eagle Robotics, for the past two years, I have gained invaluable experience and knowledge in these fields, and have had the opportunity to work collaboratively with like-minded individuals to design, build, and program robots that compete at a high level.
+
+Currently, I am a sophomore at Allen High School's class of 2025, where I am continuing to pursue my interests in these areas. I have had the opportunity to take advanced courses in computer science and mathematics, which have further strengthened my skills in programming and problem-solving.
+
+In addition to my academic pursuits, I have also gained hands-on experience with various hardware platforms, including Arduino, Raspberry Pi, and ROS (Robot Operating System). These experiences have enabled me to gain a deeper understanding of how software and hardware can be integrated to create complex systems and solve real-world problems.
+
+I am committed to continued growth and development in these areas and am always looking for new challenges and opportunities to learn. My GitHub profile showcases some of my personal projects and contributions to open-source projects. I believe that through collaboration and shared knowledge, we can push the boundaries of what is possible in robotics and technology.
 </p>
 
 - ⚒️ I’m well versed with ...
@@ -78,4 +84,8 @@
 - 🕸️ My Projects ...
 <p align="center">
   https://gpacalculator.streamlit.app/
+</p>
+
+<p align="center">
+Thank you for taking the time to read my profile, and I look forward to connecting with others who share my passion for these fields.
 </p>
