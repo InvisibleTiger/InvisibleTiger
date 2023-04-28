@@ -63,6 +63,13 @@ I'm Jeevan Adhya. A Sophomore from Allen High School's Class of 2025.
 </p>
 
 - 📫 How to reach me: ...
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
 - 🔭 I’m currently working on ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
