@@ -53,7 +53,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
+- 💡 Development Environments I use ...
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" style="vertical-align:top; margin:6px">
+</p>
+
+- 📫 How to reach me: ...
 - 🔭 I’m currently working on ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
