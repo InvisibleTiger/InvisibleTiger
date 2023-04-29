@@ -117,4 +117,4 @@ I am committed to continued growth and development in these areas and am always 
   https://github.com/InvisibleTiger/NeuralVision
 </p>
 
-### Thank you for taking the time to read my profile, and I look forward to connecting with others who share my passion for these fields.
+### Thank you for taking the time to read my profile, and I look forward to connecting with other like-minded individuals who share my passion for these fields like you.
