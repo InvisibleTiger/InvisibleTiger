@@ -111,10 +111,7 @@ I am committed to continued growth and development in these areas and am always 
 
 - 🕸️ My Projects ...
 <p align="center">
-  https://gpacalculator.streamlit.app/
-</p>
-<p align="center">
-  https://github.com/InvisibleTiger/NeuralVision
+  https://expansed.streamlit.app/
 </p>
 
 ### Thank you for taking the time to read my profile, and I look forward to connecting with other like-minded individuals who share my passion for these fields like you.
