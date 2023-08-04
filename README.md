@@ -3,7 +3,7 @@
 <p align="center">
 I am Jeevan Adhya, a passionate and driven individual with a love for robotics, programming, computer science, math, science, and technology. As a member of the FRC team 5417, Eagle Robotics, for the past two years, I have gained invaluable experience and knowledge in these fields, and have had the opportunity to work collaboratively with like-minded individuals to design, build, and program robots that compete at a high level.
 
-Currently, I am a sophomore at Allen High School's class of 2025, where I am continuing to pursue my interests in these areas. I have had the opportunity to take advanced courses in science and mathematics, which have further strengthened my skills in programming and problem-solving.
+Currently, I am a junior at Allen High School's class of 2025, where I am continuing to pursue my interests in these areas. I have had the opportunity to take advanced courses in science and mathematics, which have further strengthened my skills in programming and problem-solving.
 
 In addition to my academic pursuits, I have also gained hands-on experience with various hardware platforms, including Arduino, Raspberry Pi, and ROS (Robot Operating System). These experiences have enabled me to gain a deeper understanding of how software and hardware can be integrated to create complex systems and solve real-world problems.
 
