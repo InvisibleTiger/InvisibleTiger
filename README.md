@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-I am Jeevan Adhya, a passionate and driven individual with a love for robotics, programming, computer science, math, science, and technology. As a member of the FRC team 5417, Eagle Robotics, for the past two years, I have gained invaluable experience and knowledge in these fields, and have had the opportunity to work collaboratively with like-minded individuals to design, build, and program robots that compete at a high level.
+I am Jeevan Adhya, a passionate and driven individual with a love for robotics, programming, computer science, math, science, and technology. As a member of the FRC team 5417, Eagle Robotics and Eagle Spec Ops, for the past three years, I have gained invaluable experience and knowledge in these fields, and have had the opportunity to work collaboratively with like-minded individuals to design, build, and program robots that compete at a high level.
 
-Currently, I am a junior at Allen High School's class of 2025, where I am continuing to pursue my interests in these areas. I have had the opportunity to take advanced courses in science and mathematics, which have further strengthened my skills in programming and problem-solving.
+Currently, I am a junior at Allen High School's class of 2025, where I am continue to pursue my interests in these areas. I have had the opportunity to take accelerated courses in science and mathematics, which have further strengthened my skills in programming and problem-solving.
 
-In addition to my academic pursuits, I have also gained hands-on experience with various hardware platforms, including Arduino, Raspberry Pi, and ROS (Robot Operating System). These experiences have enabled me to gain a deeper understanding of how software and hardware can be integrated to create complex systems and solve real-world problems.
+In addition to my academic pursuits, I have also gained hands-on experience with various hardware and software platforms, including Arduino, Raspberry Pi, and ROS (Robot Operating System). These experiences have enabled me to gain a deeper understanding of how software and hardware can be integrated to create complex systems and solve real-world problems.
 
 I am committed to continued growth and development in these areas and am always looking for new challenges and opportunities to learn. My GitHub profile showcases some of my personal projects and contributions to open-source projects. I believe that through collaboration and shared knowledge, we can push the boundaries of what is possible in robotics and technology.
 </p>
@@ -42,6 +42,7 @@ I am committed to continued growth and development in these areas and am always 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 - 💡 Development Environments I use ...
@@ -55,7 +56,7 @@ I am committed to continued growth and development in these areas and am always 
 
 - ⚡ Fun fact: ...
 <p align="center">
-Robots are used in many industries and for many purposes. They can sort food like rice, wheat, pulses and seeds. They can also perform medical operations, work as hotel staff, defuse bombs, do household chores and entertain us with games. Robots have a wide range of applications in almost all industries these days because of their precision and convenience.
+Robots are used in many industries and for many purposes. They can sort food like rice, wheat, pulses and seeds. They can also perform medical operations, work as hotel staff, do household chores and entertain us with games. Robots have a wide range of applications in almost all industries these days because of their precision and convenience.
 </p>
 
 ### Thank you for taking the time to read my profile, and I look forward to connecting with other like-minded individuals who share my passion for the application of Robots in increasing humanity within the human society like you.
