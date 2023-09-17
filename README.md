@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-I am Jeevan Adhya, a passionate and driven individual with a love for robotics, programming, computer science, math, science, and technology. As a member of the FRC team 5417, Eagle Robotics and Eagle Spec Ops, for the past three years, I have gained invaluable experience and knowledge in these fields, and have had the opportunity to work collaboratively with like-minded individuals to design, build, and program robots that compete at a high level.
+I am Jeevan Adhya, a passionate and driven individual with a love for robotics, programming, math, science, and technology. As a member of the FRC team 5417, Eagle Robotics and Eagle Spec Ops, for the past three years, I have gained invaluable experience and knowledge in these fields, and have had the opportunity to work collaboratively with like-minded individuals to design, build, and program robots that compete at a high level.
 
 Currently, I am a junior at Allen High School's class of 2025, where I am continue to pursue my interests in these areas. I have had the opportunity to take accelerated courses in science and mathematics, which have further strengthened my skills in programming and problem-solving.
 
