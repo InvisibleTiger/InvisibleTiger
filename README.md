@@ -53,10 +53,3 @@ I am committed to continued growth and development in these areas and am always 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
-
-- ⚡ Fun fact: ...
-<p align="center">
-Robots are used in many industries and for many purposes. They can sort food like rice, wheat, pulses and seeds. They can also perform medical operations, work as hotel staff, do household chores and entertain us with games. Robots have a wide range of applications in almost all industries these days because of their precision and convenience.
-</p>
-
-### Thank you for taking the time to read my profile, and I look forward to connecting with other like-minded individuals who share my passion for the application of Robots in increasing humanity within the human society like you.
